@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MMQuizz</string>
+    <string name="reload">Recommencer</string>
+    <string name="menu">Choix Theme</string>
+    <string name="score">Votre Score</string>
+    <string name="username">Entrer votre pseudo</string>
+
+</resources>

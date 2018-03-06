@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+
+    <TableRow
+        android:id="@+id/bande"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@drawable/bg_color"
+
+        android:layout_margin="20px">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:textAppearance="?android:attr/textAppearanceButton"
+            android:text="New Reponse"
+            android:id="@+id/reponse"
+            android:layout_gravity="center"
+            android:gravity="center_vertical"
+            android:layout_margin="20px"/>
+    </TableRow>
+
+</RelativeLayout>
+
